@@ -1,0 +1,14 @@
+print("student details")
+for(i=0;i<5;i++){
+print(u_name , age , verified , height)
+data=input("Enter a user:")
+print(data)
+data=input("Enter a age:")
+print(data)
+data=input("Enter a verified:")
+print(data)
+data=input("Enter a height:")
+print(data)
+}
+
+
