@@ -1,13 +1,24 @@
 print("student details")
+<<<<<<< HEAD
 u_name=input("Enter a username:")
 print(u_name)
 age=input("Enter a age:")
 print(age)
 verified=input("Are you  verified (True/False):")
+=======
+u_name=input("Enter a user name:")
+print(u_name)
+age=input("Enter a age:")
+print(age)
+verified=input("Are you  verified?(True/False):")
+>>>>>>> fc378b1555a1747d9222a56157c19ed3e99f1f34
 verified=verified=="true"
 print(verified)
 height=input("Enter a height:")
 print(height)
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> fc378b1555a1747d9222a56157c19ed3e99f1f34
